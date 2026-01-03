@@ -147,12 +147,5 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-### Contact
-
-If you have any questions or feedback, feel free to reach out:
-
-- **Author**: Adenuga Ebunifeoluwa
-- **Email**: tonyrex99@wearehackerone.com
-- **LinkedIn**: [Ebunifeoluwa Adenuga](https://www.linkedin.com/in/ebunifeoluwa-adenuga-131a981b1)
 
 
